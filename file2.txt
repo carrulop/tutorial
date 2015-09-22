@@ -1,4 +1,7 @@
 Futuro conflicto: Jill inserta esta primera linea!!
 Carlos crea este nuevo fichero desde local.
-  --> Linea modificada por Jill [esto entrará en conflicto]
+
+  --> Linea modificada por Jill [conflicto resuelto por Jill]
+  --> Linea modificada por Carlos [conflicto resuelto por Jill]
+
 Futuro conflicto: Carlos añade esta linea....
